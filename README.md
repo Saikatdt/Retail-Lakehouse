@@ -17,6 +17,10 @@ One order can have multiple products in them.
 
 - **Quick Reference**: More details about the business and the dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?datasetId=55151&searchQuery=data+engineer)
 
+### Business Goals
+
+### KPI
+
 
 ## Tasks Involved
 - **Data Ingestion**: 
