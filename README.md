@@ -17,6 +17,17 @@ One order can have multiple products in them.
 
 - **Quick Reference**: More details about the business and the dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?datasetId=55151&searchQuery=data+engineer)
 
+### Business goals
+
+- Increase in the market penetration in the geolocation where the demand is less.
+- Increase the number of orders per customer by understanding how much each customer spends.
+
+### KPI
+
+- Customer rating
+- Product sales
+- Seller sales
+- Delivery time
 
 ## Tasks Involved
 - **Data Ingestion**: 
