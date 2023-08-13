@@ -20,7 +20,22 @@ One order can have multiple products in them.
 ### Business Goals
 
 ### KPI
+focused on Sales & Quantity, dashboard can be enabled to have these metrics filtered on geolocation, market, date range etc.
 
+- Sales & Quantity by Store or Seller
+- Sales & Quantity by Product & Product Category
+- Purchase frequency(from 55 Ecommerce KPIs and Metrics You Need to Track and Measure)
+- Time between purchases(from 55 Ecommerce KPIs and Metrics You Need to Track and Measure )
+
+focused on Customer Feedback and Ratings, Reviews, dashboard can be enabled to have these metrics filtered on geolocation, market, date range, product type etc.
+
+- average customer rating
+- feedback %
+- #order with feedback or reviews
+
+focused on business operations to optimise e-commerce delivery
+
+- delivery turnaround = no of days between order_delivered_customer_date and order_estimated_delivery_date
 
 ## Tasks Involved
 - **Data Ingestion**: 
