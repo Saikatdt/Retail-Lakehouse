@@ -17,17 +17,33 @@ One order can have multiple products in them.
 
 - **Quick Reference**: More details about the business and the dataset can be found [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?datasetId=55151&searchQuery=data+engineer)
 
-### Business goals
 
+### Business Goals
 - Increase in the market penetration in the geolocation where the demand is less.
 - Increase the number of orders per customer by understanding how much each customer spends.
 
 ### KPI
+focused on Sales & Quantity, dashboard can be enabled to have these metrics filtered on geolocation, market, date range etc.
 
+- Sales & Quantity by Store or Seller
+- Sales & Quantity by Product & Product Category
+- Purchase frequency(from 55 Ecommerce KPIs and Metrics You Need to Track and Measure)
+- Time between purchases(from 55 Ecommerce KPIs and Metrics You Need to Track and Measure )
 - Customer rating
 - Product sales
 - Seller sales
 - Delivery time
+
+focused on Customer Feedback and Ratings, Reviews, dashboard can be enabled to have these metrics filtered on geolocation, market, date range, product type etc.
+
+- average customer rating
+- feedback %
+- #order with feedback or reviews
+
+focused on business operations to optimise e-commerce delivery
+
+- delivery turnaround = no of days between order_delivered_customer_date and order_estimated_delivery_date
+
 
 ## Tasks Involved
 - **Data Ingestion**: 
