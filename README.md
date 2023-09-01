@@ -26,18 +26,19 @@ One order can have multiple products in them.
 
 
 ### KPI
-focused on Sales & Quantity, dashboard can be enabled to have these metrics filtered on geolocation, market, date range etc.
 
 - Sales & Quantity by Store or Seller
 - Sales & Quantity by Product & Product Category
-- Purchase frequency(from 55 Ecommerce KPIs and Metrics You Need to Track and Measure)
-- Time between purchases(from 55 Ecommerce KPIs and Metrics You Need to Track and Measure )
+- Purchase frequency
+- Time between purchases
 - Customer rating
 - Product sales
 - Seller sales
 - Delivery time
-1. Analyze sales data to identify the products that exhibit significant seasonal purchasing patterns. Determine which products have the highest sales during different seasons.
-2. Calculate the average sales and ratings for each product category. Identify the categories with the highest and lowest sales and ratings.
+
+### Analytics Target
+1. Analyze sales data to identify the products that exhibit significant seasonal purchasing patterns. This will help determine which products have the highest sales during different seasons.
+2. Calculate the average sales and ratings for each product category. Identify the types with the highest and lowest sales and ratings.
 3. Determine the frequency of product combinations purchased together. Identify popular product bundles to optimize cross-selling strategies.
 4. Calculate the average sentiment score of customer reviews i.e. Customer Sentiment Score (CSS) using natural language processing (NLP) techniques. 
 2. Measure the percentage of customers who have written reviews compared to the total number of customers who made purchases i.e.  Review Participation Rate (RPR). This provides insights into customer engagement and willingness to share feedback.
@@ -45,15 +46,11 @@ focused on Sales & Quantity, dashboard can be enabled to have these metrics filt
 4. Quantify the number of reviews mentioning specific pain points or issues customers are facing with products. This helps prioritize improvements.
 5. Track the total number of reviews and the average ratings per product to assess popularity and customer satisfaction trends.
 
-focused on Customer Feedback and Ratings, Reviews, dashboard can be enabled to have these metrics filtered on geolocation, market, date range, product type etc.
+### Dashboards
 
-- average customer rating
-- feedback %
-- #order with feedback or reviews
-
-focused on business operations to optimise e-commerce delivery
-
-- delivery turnaround = no of days between order_delivered_customer_date and order_estimated_delivery_date
+- Sales Dashboard
+- Product delivery dashboards
+- Customer sentiment dashboard
 
 
 ## Tasks Involved
